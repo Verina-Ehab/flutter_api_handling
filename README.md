@@ -1,6 +1,6 @@
 # flutter_api_handling
 
-A new Flutter project.
+A new Flutter project for # Practice APIs handling with (clean code, dio, provider, bloc)
 
 ## Getting Started
 
